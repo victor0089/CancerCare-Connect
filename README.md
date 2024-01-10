@@ -6,10 +6,12 @@ Tagline: Bridging the Gap for Cancer Patients
 1. Team Members:
 
 Project Manager: Responsible for overall coordination and project management.
-Front-End Developer: Focus on creating an intuitive and user-friendly interface.
-Back-End Developer: Handle data storage, processing, and server-side logic.
-UX/UI Designer: Ensure a visually appealing and accessible design.
-Healthcare Specialist (optional): Provide insights into cancer care needs.
+Front-End: React.js for dynamic and responsive user interfaces.
+Back-End: python for server-side development.
+Database: mysql for efficient and scalable data storage.
+Authentication: Implement secure user authentication using JWT.
+Communication: WebSocket for real-time communication.
+External APIs: Integrate with healthcare APIs for relevant information.
 2. Technologies:
 
 Front-End: React.js for dynamic and responsive user interfaces.
